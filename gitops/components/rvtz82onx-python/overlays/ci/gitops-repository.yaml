@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rvtz82onx-python-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/rvtz82onx-python-gitops
